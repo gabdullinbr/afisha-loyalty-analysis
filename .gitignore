@@ -1,5 +1,13 @@
+# Секреты (пароли)
 .env
-env/
-.ipynb_checkpoints/
-.DS_Store
 
+# Временные файлы Jupyter
+.ipynb_checkpoints/
+
+# Системные файлы
+.DS_Store
+__pycache__/
+
+# Если используешь виртуальное окружение
+venv/
+env/
