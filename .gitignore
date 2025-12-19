@@ -3,10 +3,12 @@
 
 # Временные файлы Jupyter
 .ipynb_checkpoints/
+*/.ipynb_checkpoints/
 
 # Системные файлы
 .DS_Store
 __pycache__/
+*.py[cod]
 
 # Если используешь виртуальное окружение
 venv/
